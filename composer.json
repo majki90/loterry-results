@@ -1,0 +1,11 @@
+{
+  "require": {
+    "curl/curl": "^1.5",
+    "paquettg/php-html-parser": "^1.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "Classes\\": "Classes/"
+    }
+  }
+}
